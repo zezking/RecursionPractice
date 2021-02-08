@@ -6,6 +6,7 @@ const luhnRecursive = (a) => {
     .reverse();
 
   let checkDig = a[0];
+
   // let sumOfOddDights = 0;
   // for (i = 0; i < a.length; a++) {
   //   if((i+1))
